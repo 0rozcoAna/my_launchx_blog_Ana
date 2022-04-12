@@ -23,5 +23,5 @@ Si es así, permíteme contarte, cuando uno toma un proyecto debe comprometerse 
 Un punto que considero muy muy importante también es la comunicación para con el cliente o el equipo de trabajo, debemos ser capaces de poder expresar con claridad nuestras ideas, lo cual en algunos casos puede resultar un tanto difícil, sobre todo cuando tenemos que explicar el porqué de algunos procesos o ideas a alguien que no esta tan familiarizado con el área, en estos casos debemos recordar siempre el respeto, la sencillez y que sobre todo cual es nuestro propósito final.
 
 Bueno no quiero aburrirlos, espero poder aprender mucho más aquí y mejorar mis habilidades. Les deseo un excelente viaje. 
-![image](https://user-images.githubusercontent.com/29434378/163028776-50bb1740-fbc8-4a72-8001-0b57395da173.png)
+
 
