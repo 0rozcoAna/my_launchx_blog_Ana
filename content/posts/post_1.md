@@ -1,7 +1,7 @@
 ---
 title: "Mi experiencia  en Launh X"
 date: 2022-04-12
-description: '¿Que he aprendido en LaunchX?:By Ana Orozco'
+description: '¿Que he aprendido en LaunchX? - By: Ana Orozco'
 ---
 
 # ¿Como ha sido mi experiencia en LaunchX?
