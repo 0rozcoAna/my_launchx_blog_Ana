@@ -4,7 +4,7 @@ date: 2022-04-12
 description: '¿Que he aprendido en LaunchX?:By Ana Orozco'
 ---
 
-#¿Como ha sido mi experiencia en LaunchX?
+# ¿Como ha sido mi experiencia en LaunchX?
 
 Sin duda LaunchX ha representado una experiencia muy interesante para mí, me ha motivado a ir por más, a aprender cosas nuevas y actualizar los conocimientos que tenía un poco oxidados. 
 
